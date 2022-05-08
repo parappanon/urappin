@@ -1,0 +1,19 @@
+body {
+    background-image: url('http://dl4.glitter-graphics.net/pub/64/64404guma0usj0q.gif');
+    background-attachment: fixed;
+    background-repeat: repeat;
+    color: #FFFFFF;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    box-align: center;
+    width: 400px;
+}
+
+div {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(40, 56, 42);
+    padding: 20px 10px;
+    border: 3px solid rgb(98, 131, 104);
+    margin-bottom: 20px;
+}
