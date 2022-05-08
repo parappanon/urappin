@@ -1,0 +1,13 @@
+body {
+background-image: url('http://dl10.glitter-graphics.net/pub/155/155240swonop7jr4.gif');
+background-attachment: fixed;
+background-repeat: repeat;
+}
+
+div {
+    background-color: #ffffff;
+    padding: 20px 10px;
+    border: 3px solid #ffffff;
+    margin-bottom: 20px;
+    display: flex;
+}
