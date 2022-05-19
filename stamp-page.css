@@ -8,9 +8,18 @@ body {
     width: 600px;
 }
 
+p {
+    font-family: monospace;
+    font-size: large;
+}
+
 div {
     background-color: rgb(33, 34, 46);
     padding: 20px 10px;
     border: 3px solid rgb(255, 255, 255);
     margin-bottom: 20px;
+
+    display: flex;
+    justify-content: center; 
+    flex-direction: column;
 }

@@ -3,3 +3,7 @@ background-image: url("bliss.jpg");
 background-attachment: fixed;
 font-family: 'Courier New', Courier, monospace;
 }
+
+div {
+margin: auto;
+}

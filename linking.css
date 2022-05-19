@@ -1,0 +1,20 @@
+body {
+    background-image: url("macos-stars.png");
+}
+
+div {
+    color: #ffffff;
+    background-color: rgb(48, 48, 49);
+    padding: 15px 15px;
+    border: 10px solid #000000;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+a:link {
+    color:silver;
+}
+
+a:visited {
+    color: grey;
+}
