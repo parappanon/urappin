@@ -1,0 +1,10 @@
+body {
+    background-color: #008080;
+}
+
+div {
+    display: inline-flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    align-content: flex-start;
+}
